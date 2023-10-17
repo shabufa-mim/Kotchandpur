@@ -10,4 +10,9 @@ public class Khulna {
 		System.out.println("This is jossore Class");
 	}
 
+
+	public void ghk() {
+		
+		System.out.println("This is a BlackBarry");
+	}
 }
