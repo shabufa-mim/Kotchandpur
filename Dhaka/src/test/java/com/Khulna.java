@@ -6,5 +6,8 @@ public class Khulna {
 		System.out.println("This is rajshahi Class");
 		
 	}
+	public void def() {
+		System.out.println("This is jossore Class");
+	}
 
 }
